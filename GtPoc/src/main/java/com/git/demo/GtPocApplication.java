@@ -12,6 +12,7 @@ public class GtPocApplication {
 		System.out.println("Added Local Changes");
 
 		System.out.println("Added Remote Changes");
+		System.out.println("Second local changes");
 
 	}
 
