@@ -8,6 +8,7 @@ public class GtPocApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GtPocApplication.class, args);
+		System.out.println("Added Remote Changes");
 	}
 
 }
